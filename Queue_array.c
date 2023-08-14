@@ -148,7 +148,7 @@ int main()
             display_queue(queue);
             break;
         default:
-            printf("operation not found!!! please check the operations list and try again.\n");
+            printf("\'%d\' is not a valid operation!!! please check the operations list and try again.\n", mode);
             break;
         }
     }    
