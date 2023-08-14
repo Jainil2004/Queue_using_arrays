@@ -158,7 +158,8 @@ int main()
 }
 
 /*
-FOR TESTING ONLY
+
+**FOR TESTING ONLY**
 queue = queue_initializer();
     enqueue(queue, 10);
     enqueue(queue, 20);
@@ -178,5 +179,4 @@ queue = queue_initializer();
     display_queue(queue);
     dequeue(queue);
     
-
 */
